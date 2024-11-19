@@ -372,7 +372,7 @@ A gestão de credenciais, Yubikeys e semelhantes, requer tempo, conhecimento e t
 <br>
 
 <div dir=RtL> 
-:Autor da tradução</br>
+:Autor</br>
 <i>Zito Cavaleiro  </i>-   email: zcavaleiro AT protonmail DOT com</br>
 Professor de Matemática e Ciências da Natureza</br>
 Engenheiro de Automação de Tecnologias de Informação</div>
